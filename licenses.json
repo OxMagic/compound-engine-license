@@ -22,5 +22,155 @@
     "used": 0,
     "active": true,
     "note": "内部测试码，限5次"
+  },
+  "CE-FREE-5X3U-A9VJ": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #1"
+  },
+  "CE-FREE-SHYX-E2OR": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #2"
+  },
+  "CE-FREE-YJS7-38EP": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #3"
+  },
+  "CE-FREE-8K1O-RFPN": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #4"
+  },
+  "CE-FREE-1SH0-9IMC": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #5"
+  },
+  "CE-FREE-RCLM-94PG": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #6"
+  },
+  "CE-FREE-PFNC-G5ET": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #7"
+  },
+  "CE-FREE-QFS5-95J5": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #8"
+  },
+  "CE-FREE-7JRP-ZG7K": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #9"
+  },
+  "CE-FREE-QA63-QUON": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #10"
+  },
+  "CE-FREE-12XT-K87H": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #11"
+  },
+  "CE-FREE-LH0C-M7Y7": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #12"
+  },
+  "CE-FREE-T5LN-928S": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #13"
+  },
+  "CE-FREE-3YDE-CL5U": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #14"
+  },
+  "CE-FREE-MIMC-I7U7": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #15"
+  },
+  "CE-FREE-LZWA-OO7V": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #16"
+  },
+  "CE-FREE-2HC3-AUHT": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #17"
+  },
+  "CE-FREE-HCEU-P398": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #18"
+  },
+  "CE-FREE-QC9L-XA5K": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #19"
+  },
+  "CE-FREE-GTW0-9Z2N": {
+    "limit": 50,
+    "used": 0,
+    "active": true,
+    "note": "公开免费码 #20"
+  },
+  "CE-VIP-S49W-6OTC": {
+    "limit": 100,
+    "used": 0,
+    "active": true,
+    "note": "VIP测试码 #1"
+  },
+  "CE-VIP-OKTK-GUVA": {
+    "limit": 100,
+    "used": 0,
+    "active": true,
+    "note": "VIP测试码 #2"
+  },
+  "CE-VIP-9Y1I-LNCQ": {
+    "limit": 100,
+    "used": 0,
+    "active": true,
+    "note": "VIP测试码 #3"
+  },
+  "CE-VIP-SU15-IJRX": {
+    "limit": 100,
+    "used": 0,
+    "active": true,
+    "note": "VIP测试码 #4"
+  },
+  "CE-VIP-BGRD-XURF": {
+    "limit": 100,
+    "used": 0,
+    "active": true,
+    "note": "VIP测试码 #5"
   }
 }
