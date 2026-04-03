@@ -1,8 +1,26 @@
 {
-  "CE-OXMAGIC-9F2A-7B4E": {
-    "limit": 99999,
+  "CE-FREE-P9V5-2TUS": {
+    "limit": 200,
     "used": 0,
     "active": true,
-    "note": "作者专属码 @OxMagic_ 永久无限次"
+    "note": "创世 #1"
+  },
+  "CE-FREE-21SK-UE2B": {
+    "limit": 200,
+    "used": 0,
+    "active": true,
+    "note": "创世 #2"
+  },
+  "CE-FREE-3OM3-9RO4": {
+    "limit": 200,
+    "used": 0,
+    "active": true,
+    "note": "创世 #3"
+  },
+  "CE-OXMAGIC-OKSW-QL5R": {
+    "limit": 1,
+    "used": 0,
+    "active": true,
+    "note": "创世主 #1"
   }
 }
