@@ -6,5 +6,13 @@
     "level": "admin",
     "note": "创世主1",
     "expires_at": 0
+  },
+  "CE-ZZ0U-UDEJ": {
+    "limit": 1,
+    "used": 0,
+    "active": true,
+    "level": "vip",
+    "note": "创世主1",
+    "expires_at": 0
   }
 }
