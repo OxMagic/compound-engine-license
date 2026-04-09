@@ -1,17 +1,9 @@
 {
-  "CE-TKTH-S86Y": {
-    "limit": 1,
-    "used": 1,
-    "active": true,
-    "level": "admin",
-    "note": "创世主1",
-    "expires_at": 0
-  },
-  "CE-ZZ0U-UDEJ": {
+  "CE-VZ9Z-Q8X4": {
     "limit": 1,
     "used": 0,
     "active": true,
-    "level": "vip",
+    "level": "admin",
     "note": "创世主1",
     "expires_at": 0
   }
