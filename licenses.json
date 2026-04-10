@@ -49,7 +49,7 @@
   },
   "TEST-04YX-EEQ7": {
     "limit": 5,
-    "used": 0,
+    "used": 1,
     "active": true,
     "level": "premium",
     "note": "??????1",
