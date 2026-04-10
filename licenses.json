@@ -48,19 +48,11 @@
     "expires_at": 0
   },
   "TEST-20XC-EJIL": {
-    "limit": 5,
+    "limit": 10,
     "used": 0,
-    "active": true,
+    "active": false,
     "level": "premium",
-    "note": "????1",
-    "expires_at": 0
-  },
-  "TEST-K2B3-4B4H": {
-    "limit": 5,
-    "used": 0,
-    "active": true,
-    "level": "premium",
-    "note": "????2",
+    "note": "?????-??",
     "expires_at": 0
   }
 }
