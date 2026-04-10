@@ -46,5 +46,21 @@
     "level": "premium",
     "note": "批量生成 #1",
     "expires_at": 0
+  },
+  "TEST-20XC-EJIL": {
+    "limit": 5,
+    "used": 0,
+    "active": true,
+    "level": "premium",
+    "note": "????1",
+    "expires_at": 0
+  },
+  "TEST-K2B3-4B4H": {
+    "limit": 5,
+    "used": 0,
+    "active": true,
+    "level": "premium",
+    "note": "????2",
+    "expires_at": 0
   }
 }
