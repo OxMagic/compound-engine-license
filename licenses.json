@@ -1,12 +1,4 @@
 {
-  "CE-10CF-V9MA": {
-    "limit": 1,
-    "used": 0,
-    "active": true,
-    "level": "admin",
-    "note": "批量生成 #1",
-    "expires_at": 0
-  },
   "CE-2MJS-0EFC": {
     "limit": 1,
     "used": 0,
