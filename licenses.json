@@ -1,10 +1,10 @@
 {
-  "TEST-MORE-QFA6": {
-    "limit": 10,
-    "used": 0,
+  "TEST-04YX-EEQ7": {
+    "limit": 5,
+    "used": 1,
     "active": true,
     "level": "premium",
-    "note": "批量生成 #1",
+    "note": "??????1",
     "expires_at": 0
   }
 }
