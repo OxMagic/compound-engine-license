@@ -1,4 +1,12 @@
 {
+  "CE-2MJS-0EFC": {
+    "limit": 1,
+    "used": 0,
+    "active": true,
+    "level": "admin",
+    "note": "批量生成 #2",
+    "expires_at": 0
+  },
   "CE-QT1H-GDNV": {
     "limit": 1,
     "used": 0,
@@ -13,14 +21,6 @@
     "active": true,
     "level": "admin",
     "note": "批量生成 #5",
-    "expires_at": 0
-  },
-  "TEST-MORE-QFA6": {
-    "limit": 10,
-    "used": 0,
-    "active": true,
-    "level": "premium",
-    "note": "批量生成 #1",
     "expires_at": 0
   },
   "TEST-04YX-EEQ7": {
