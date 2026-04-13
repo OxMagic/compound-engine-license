@@ -1,1 +1,10 @@
-{}
+{
+  "CE-DZ5U-UTY3": {
+    "limit": 1,
+    "used": 0,
+    "active": true,
+    "level": "admin",
+    "note": "批量生成 #1",
+    "expires_at": 0
+  }
+}
