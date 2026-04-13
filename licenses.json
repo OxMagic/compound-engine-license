@@ -7,14 +7,6 @@
     "note": "批量生成 #3",
     "expires_at": 0
   },
-  "CE-H8JF-TCMG": {
-    "limit": 1,
-    "used": 0,
-    "active": true,
-    "level": "admin",
-    "note": "批量生成 #5",
-    "expires_at": 0
-  },
   "TEST-MORE-QFA6": {
     "limit": 10,
     "used": 0,
