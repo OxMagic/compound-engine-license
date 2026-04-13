@@ -7,14 +7,6 @@
     "note": "批量生成 #2",
     "expires_at": 0
   },
-  "CE-QT1H-GDNV": {
-    "limit": 1,
-    "used": 0,
-    "active": true,
-    "level": "admin",
-    "note": "批量生成 #3",
-    "expires_at": 0
-  },
   "CE-85XS-ABHY": {
     "limit": 1,
     "used": 0,
@@ -37,6 +29,14 @@
     "active": true,
     "level": "premium",
     "note": "批量生成 #1",
+    "expires_at": 0
+  },
+  "TEST-04YX-EEQ7": {
+    "limit": 5,
+    "used": 1,
+    "active": true,
+    "level": "premium",
+    "note": "??????1",
     "expires_at": 0
   }
 }
