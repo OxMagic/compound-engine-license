@@ -14,5 +14,13 @@
     "level": "admin",
     "note": "批量生成 #1",
     "expires_at": 0
+  },
+  "CE-UC1Y-JXCS": {
+    "limit": 100,
+    "used": 0,
+    "active": true,
+    "level": "vip",
+    "note": "批量生成 #1",
+    "expires_at": 0
   }
 }
